@@ -1,0 +1,255 @@
+.header-menu-container.navbar{
+    
+    background: #1a1b1d;
+    border-bottom: 5px solid #ff4653;
+    padding: 5px 10px;
+    display: flex;
+    border-radius: 0px;
+}
+
+.navbar-form input{
+    border-radius: 20px !important;
+    width: 100%;
+}
+.navbar-form .input-group-btn{
+    position: absolute;
+    right: 8%;
+    top: 3px;
+}
+.navbar-form .input-group-btn button{
+    border-radius: 50% !important;
+    width: 28px;
+    height: 28px;
+    padding: 0px;
+    background: #333;
+    color: #fff;
+}
+.navbar-form .input-group {
+    width: 100%;
+}
+.navbar-right {
+    min-width: 250px;
+}
+
+
+.header-menu-container.navbar ul.navbar-nav{
+    display: table;
+    height: 100%;
+}
+
+.header-menu-container .navbar-nav > li{
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+}
+
+.header-menu-container .navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+.grid a{
+    
+    
+    color:#c4c4c4 !important;
+    font-size: 12px;
+    padding: 3px;
+    border-right: 1px solid #c4c4c4;
+    
+}
+
+.grid2 b{
+    
+    color:#525f6b;
+    font-size: 46px;
+}
+
+.grid2 p{
+    
+    color:#999999;
+    font-size:12px;
+    
+}
+.grid2{
+    
+    margin-left: -3px;
+    margin-top: 30px
+    
+}
+
+.grid3{
+    
+    margin-top: 45px;
+    position: relative;
+    right: -4px;
+}
+.grid3 img{
+    width:468px;
+    height:60px;
+       
+}
+
+.grid4{
+    margin-top: 40px;
+}
+
+/*avbar-header a:hover +navbar-header{
+    background: red;
+    
+}*/
+.navbar-brand{
+    
+    background: red;
+    
+}
+
+.navbar-nav a{
+    
+    color:#666666;
+    font-size:12px;
+}
+
+.grid5{
+    margin-top: 20px;
+}
+
+.grid3 a{
+    max-width: 468px;
+    width:100%;
+    display: inline-block;
+    text-align: center;
+    
+}
+.grid6 b{
+    
+    color:#535f6b;
+    font-size: 46px;
+   
+}
+
+.grid6 p{
+    color: #bdbdbd;
+    font-size: 18px;
+    word-wrap: break-word;  
+}
+
+.grid6{
+    margin-top: 51px;
+    margin-left: -32px;
+       
+}
+
+
+#myCarousel .item img {
+    
+    height: 600px;
+    width:100%
+      
+}
+
+.grid7{
+    width: 225px;
+    height:275px;
+    background: black;
+     margin-top: 50px;  
+}
+
+.three img{
+    
+    width:100%;
+    height: 275px;
+}
+.three > div > div{
+    padding: 0px;
+}
+
+.grid8{
+    background: red;
+    height: 10px;
+    margin-top: 30px;
+   
+}
+
+.grid9{
+     width: 225px;
+     height:275px;
+     background: black;
+     margin-top: 50px;   
+}
+ 
+.grid10{
+    background: #333;
+    height: 10px;
+    margin-top: 30px;
+   
+}
+
+.grid11{
+    background: black;
+    border-top: 7px solid red;
+    margin-top: 30px;  
+    
+}
+
+
+.grid11 p{
+     color: #999;
+      
+} 
+
+.grid11 h4{
+    
+    color: #fff; 
+    font-size: 13pt;
+}
+    
+.grid13 a{
+    
+    color: #999;
+}  
+
+.grid13 ul {
+    
+    list-style: none;
+    padding: 10px;
+}
+.grid13 ul li{
+    border-bottom: 1px solid #373432;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.grid13 {
+    padding-top: 15px;
+}
+.grid14{
+    
+   padding-top: 15px; 
+}
+.grid12{
+    padding-top: 15px;
+}
+
+
+.grid15{
+    padding-top: 15px;
+}
+
+.grid15 input{
+    
+}
+.grid15 button{
+    
+    color: #f5f4f2;
+    background: #ff4653;
+    font-size: 18px;
+    border-radius: 8px;
+    
+}
+
+
+
+
+
+
+
